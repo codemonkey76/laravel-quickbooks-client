@@ -2,7 +2,7 @@
 
 namespace Spinen\QuickBooks;
 
-use App\User;
+use App\Models\User;
 use Carbon\Carbon;
 use Exception;
 use Illuminate\Database\Eloquent\Model;
